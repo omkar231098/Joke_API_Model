@@ -4,14 +4,43 @@
 
 Joke_API_Model is a simple command-line utility created using Node.js. It allows users to retrieve dad jokes based on a specified search term from the "icanhazdadjoke" API. The tool randomly selects a joke from the search results, displays it to the user, and saves it to a text file named `jokes.txt` for future laughs.
 
-## Requirements
+## Prerequisites
 
-- Node.js
-- npm (Node Package Manager)
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/): The JavaScript runtime environment.
+- [npm](https://www.npmjs.com/): The Node Package Manager.
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/Joke_API_Model.git
+    ```
+
+   Replace `your-username` with your actual GitHub username.
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd Joke_API_Model
+    ```
+
+3. **Install the required npm packages:**
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+Run the tool with the following command:
 
 ```bash
-git clone https://github.com/your-username/Joke_API_Model.git
+node index.js yourSearchTerm
+
+Dependencies
+request: Used for making HTTP requests.
+
+
