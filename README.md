@@ -14,4 +14,4 @@ Joke_API_Model is a simple command-line utility created using Node.js. It allows
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/dad-joke-cli-tool.git
+git clone https://github.com/your-username/Joke_API_Model.git
