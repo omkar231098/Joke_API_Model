@@ -40,7 +40,19 @@ Run the tool with the following command:
 ```bash
 node index.js yourSearchTerm
 
-Dependencies
-request: Used for making HTTP requests.
+```
+## Dependencies
+- Request: Used for making HTTP requests.
 
 
+## Example
+```bash
+node index.js programming
+
+```
+## Acknowledgments
+- Jokes provided by icanhazdadjoke.
+
+- Happy laughing!
+
+- This README provides clearer instructions with pointers for each step of the installation process. Remember to customize the GitHub repository URL and any other specific details based on your project's information.
