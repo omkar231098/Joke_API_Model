@@ -2,7 +2,7 @@
 
 ## Overview
 
-Joke_API_Model is a simple command-line utility created using Node.js. It allows users to retrieve dad jokes based on a specified search term from the "icanhazdadjoke" API. The tool randomly selects a joke from the search results, displays it to the user, and saves it to a text file named `jokes.txt` for future laughs.
+Joke_API_Model is a simple command-line utility created using Node.js. It allows users to retrieve jokes based on a specified search term from the "icanhazdadjoke" API. The tool randomly selects a joke from the search results, displays it to the user, and saves it to a text file named `jokes.txt` for future laughs.
 
 ## Prerequisites
 
